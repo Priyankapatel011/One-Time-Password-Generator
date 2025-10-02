@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(89, 124, 194, 0.647)
+}
+
+.container{
+  /* background-color: red; */
+  color: rgb(12, 49, 72);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+}
+
+#generate-otp-button{
+  width : 150px; 
+  height : 50px; 
+  border-radius : 30px;
+  margin: 20px;
+  color : rgb(55, 14, 57);
+  font-size : 15px;
+  font-weight : bold;
+  border : none
+}
